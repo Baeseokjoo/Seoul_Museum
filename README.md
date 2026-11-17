@@ -4,8 +4,8 @@
 
 ## 1. 링크
 
-- **Live Demo**: https://baeseokjoo.github.io/figma-practice/
-- **GitHub**: https://github.com/Baeseokjoo/figma-practice
+- **Live Demo**: https://baeseokjoo.github.io/Seoul_Museum/
+- **GitHub**: https://github.com/Baeseokjoo/Seoul_Museum
 - **Figma 디자인**: https://www.figma.com/design/iICtp4r7wLJJ0eTOV8Xf9c/%EA%B3%B5%EA%B3%B5%EA%B8%B0%EA%B4%80-%EA%B0%9C%EC%84%A0?node-id=0-1&t=0WqJnERSaIdBfYpY-1
 
 ## 2. 프로젝트 정보
